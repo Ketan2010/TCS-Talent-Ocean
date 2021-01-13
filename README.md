@@ -24,6 +24,18 @@ Example **: java programming, java language, core java, programming in java, jav
 1. Get top 5 candidates having high matching factor for the project.
 2. Final dataframe **(project id, location, required skills, top 5 suitable candidates, matching factor for top 5 candidates.)**
 
+**Flowchart:**
+![alt text](imgs/flowchart.png)<br>
+
+**Data visualization:** 
+1. Matching factor vs projects <br>
+This graph shows project against matching factor <br>
+![alt text](imgs/bar.png)<br>
+
+1. Matching factors range <br>
+In below graph, orange green shows number of projects which has matching factor between 41 – 60% and so on. <br>
+![alt text](imgs/pie.png) <br>
+
 **Requirements:** <br>
 Programming language: Python 3 <br>
 Python library: Pandas, matplotlib, numpy <br>
