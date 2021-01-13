@@ -24,7 +24,7 @@ Example **: java programming, java language, core java, programming in java, jav
 1. Get top 5 candidates having high matching factor for the project.
 2. Final dataframe **(project id, location, required skills, top 5 suitable candidates, matching factor for top 5 candidates.)**
 
-**Flowchart:**
+**Flowchart:** <br>
 ![alt text](imgs/flowchart.png)<br>
 
 **Data visualization:** 
