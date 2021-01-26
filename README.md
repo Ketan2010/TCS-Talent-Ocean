@@ -1,5 +1,5 @@
 
-# <span style="color:red">some **This is Red Bold.** text</span>
+# This solution qualified first round
 # TCS-Talent-Ocean Round 2 Submission
 
 **Problem Statement:** Find suitable candidates for project based on required skills and candidates skills <br>
