@@ -1,5 +1,6 @@
 
 # This solution Won Contest
+![alt text](imgs/Winner Certificate_Ketan.JPG)<br>
 # TCS-Talent-Ocean Round 2 Submission
 
 **Problem Statement:** Find suitable candidates for project based on required skills and candidates skills <br>
